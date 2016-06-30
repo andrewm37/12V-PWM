@@ -1,0 +1,12 @@
+bin/
+obj/
+Debug/
+Release/
+doxygen/
+*.suo
+*.user
+*.atsuo
+*.[Cc]ache
+*.componentinfo.xml
+dwsync.xml
+.vs/
